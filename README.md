@@ -23,3 +23,5 @@ Ther are 2 types of IP's (outside of IPV4 and IPV6) Externam and Internal
 To find your internal IP (the IP assigned by your router and how devices on your network view you) you can use `hostname -I`
 
 To find your externa IP (the IP assigned by your ISP and how devices outside your network see you) you can use the command `curl ifconfig.me`. As this IP isn't known by your device you need to ask an external server.
+
+<img width="574" height="243" alt="image" src="https://github.com/user-attachments/assets/a1bca146-00ce-486f-875a-2cee5981cda7" />
